@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Daryna</h1>
 <h3 align="center">I am a Junior Front-End developer with a passion for creative problem-solving. My experience includes managing team projects and successful collaboration, as well as creating UI/UX designs. I thrive on finding innovative solutions that add unique elements to web developments and create a delightful user experience. I am now seeking a position in a fantastic company with a talented team where I can further enhance my skills and contribute to meaningful projects.</h3>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darinamerkulova&label=Profile%20views&color=0e75b6&style=flat" alt="darinamerkulova" /> </p>
 
 <h3 align="left">Connect with me:</h3>
